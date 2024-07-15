@@ -76,11 +76,11 @@ mv crab.txt proteins/meats/crab.txt
 rm thing.txt
 
 ### Step 3M
-
+cp veggies plants -r
 
 ### Step 3N
-
-
+mkdir drinks
+rm drinks -r
 
 ### Step 4
 
