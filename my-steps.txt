@@ -1,0 +1,95 @@
+### Step 2A
+/c/Users/Wren
+
+### Step 2B
+cd desktop
+
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/c/Users/Wren/desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd /
+
+### Step 2H
+pwd
+/
+
+### Step 2I
+bin/  dev/  git-bash.exe*  LICENSE.txt  proc/              tmp/          unins000.exe*  usr/
+cmd/  etc/  git-cmd.exe*   mingw64/     ReleaseNotes.html  unins000.dat  unins000.msg
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd desktop
+cd unit1-git-practice
+
+### Step 3A
+mkdir veggies meats desserts
+
+### Step 3B
+mc desserts sweets
+
+### Step 3C
+mkdir proteins
+
+### Step 3D
+mv meats proteins/meats
+
+### Step 3E
+cd veggies
+touch carrot.txt pea.txt
+
+### Step 3F
+cd ../sweets
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+### Step 3H
+cd ../
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins/meats/tofu.txt
+
+### Step 3K
+cp thing.txt crab.txt
+mv crab.txt proteins/meats/crab.txt
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+
+
+### Step 3N
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
